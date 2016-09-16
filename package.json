@@ -1,0 +1,14 @@
+{
+  "name": "luxafor-tools",
+  "version": "1.0.0",
+  "description": "Various Luxafor tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjan Eising <arjan@arjaneising.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "luxafor-api": "^2.0.0"
+  }
+}
